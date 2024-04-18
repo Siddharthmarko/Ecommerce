@@ -1,4 +1,4 @@
 const test = async (req, res) => {
-    res.status(200).send('helloe');
+    res.send({data: "Test Sucess Full"});
 }
 module.exports = {test};
