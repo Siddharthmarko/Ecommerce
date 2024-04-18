@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "name": "Red T-shirt",
+      "description": "A classic red T-shirt made from 100% cotton.",
+      "price": 29.99,
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/26255382/2023/12/5/5401464c-d88e-470e-b295-97f1672904731701789439757PUMAPhaseUnisexBackpack1.jpg",
+      "category": "Clothing",
+      "brand": "Acme",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Blue Jeans",
+      "description": "A pair of stylish blue jeans made from durable denim.",
+      "price": 49.99,
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/30/5b3b04e1-35e7-4b50-ad50-964d12bdb5561609319953279-1.jpg",
+      "category": "Clothing",
+      "brand": "Levi's",
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Black Laptop",
+      "description": "A powerful black laptop with a 15.6-inch screen.",
+      "price": 999.99,
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/25841290/2023/11/10/904965cc-764d-46d7-92c7-f20a3f5e98971699605661861PumaBadmintonSmashSprintUnisexIndoorShoes1.jpg",
+      "category": "Electronics",
+      "brand": "Dell",
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "name": "White Book",
+      "description": "An inspiring white book about personal growth.",
+      "price": 19.99,
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22018118/2023/2/17/20b48806-826a-44cb-b8d8-bb407f6196ac1676630996476ScorchRunnerV2MensShoes1.jpg",
+      "category": "Books",
+      "brand": "Penguin",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "Green Plant",
+      "description": "A beautiful green plant to brighten up your home.",
+      "price": 14.99,
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15684136/2022/11/6/72bb2a1b-29d3-44a2-aec5-52af26fd13181667717452056PumaMenWhiteGreyGraphicPrintedT-shirt1.jpg",
+      "category": "Home & Garden",
+      "brand": "None",
+      "rating": 4.1
+    },
+    {
+      "id": 6,
+      "name": "Brown Sofa",
+      "description": "A comfortable brown sofa for your living room.",
+      "price": 599.99,
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15684088/2022/11/6/1f54a1a1-b819-4e52-b641-784d528e7dd21667717405461PumaMenBlackGraphicT-Shirt1.jpg",
+      "category": "Furniture",
+      "brand": "Ikea",
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "name": "Red Bicycle",
+      "description": "A stylish red bicycle for getting around town.",
+      "price": 249.99,
+      "image": "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/24195302/2023/9/5/97c7bf0c-a436-4772-8afe-5e694b3ca4741693894587332-Puma-Softride-Furlride-Walking-Shoes-8511693894587047-1.jpg",
+      "category": "Sports & Outdoors",
+      "brand": "Schwinn",
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "name": "Blue Camera",
+      "description": "A high-quality blue camera for capturing your memories.",
+      "price": 399.99,
+      "image": "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/13501460/2022/11/6/9e7c5124-5e98-4b3f-9636-ca9e62f0bf481667718159950PumaMenBlackSolidRegularFitPERFORMANCEWOVEN5SportsShorts1.jpg",
+      "category": "Electronics",
+      "brand": "Canon",
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "name": "White Watch",
+      "description": "A sleek white watch for staying on time.",
+      "price": 149.99,
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24171078/2023/7/25/0a8d7c76-3c62-49be-93c6-97e34f7990a81690226533629PumaEssMensPoloCottonSlim-FitT-shirt1.jpg",
+      "category": "Accessories",
+      "brand": "Fossil",
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "name": "Black Shoes",
+      "description": "A pair of versatile black shoes for any occasion.",
+      "price": 69.99,
+      "image": "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/1705700/2022/11/7/074c3bd8-4019-4ca4-b269-50d60b2fd2a41667824768209PUMAUnisexNavyPurecatFlip-Flops1.jpg",
+      "category": "Shoes",
+      "brand": "Nike",
+      "rating": 4.5
+    }
+  ]
